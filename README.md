@@ -99,5 +99,6 @@ This project was developed as a learning exercise to practice **TypeScript funda
 
 ## 👨‍💻 Author
 
-Pedro
+Pedro Giffoni
+
 
